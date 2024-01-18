@@ -1,0 +1,80 @@
+[2024-01-18 21:46:58,601:INFO:main:Welcome to my custom ]
+[2024-01-18 21:49:51,943:INFO:main:Welcome to my custom logging]
+[2024-01-18 23:03:51,962:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2024-01-18 23:03:51,963:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-01-18 23:03:51,964:INFO:common:created directory at: artifact]
+[2024-01-18 23:03:51,964:INFO:common:created directory at: artifacts/data_ingestion]
+[2024-01-18 23:04:40,976:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2024-01-18 23:04:40,976:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-01-18 23:04:40,977:INFO:common:created directory at: artifact]
+[2024-01-18 23:04:40,977:INFO:common:created directory at: artifacts/data_ingestion]
+[2024-01-18 23:05:09,119:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2024-01-18 23:05:09,120:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-01-18 23:05:09,121:INFO:common:created directory at: artifact]
+[2024-01-18 23:05:09,121:INFO:common:created directory at: artifacts/data_ingestion]
+[2024-01-18 23:06:21,009:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2024-01-18 23:06:21,010:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-01-18 23:06:21,010:INFO:common:created directory at: artifact]
+[2024-01-18 23:06:21,011:INFO:common:created directory at: artifacts/data_ingestion]
+[2024-01-18 23:06:22,557:INFO:4037744573:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6FE2:14E994:1C5FEF:297D59:65A96195
+Accept-Ranges: bytes
+Date: Thu, 18 Jan 2024 17:36:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21747-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705599381.426428,VS0,VE885
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 169a269b854e9a6419e7e4c3a682c7247b7440e2
+Expires: Thu, 18 Jan 2024 17:41:22 GMT
+Source-Age: 1
+
+]
+[2024-01-18 23:25:00,288:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-18 23:25:00,288:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2024-01-18 23:25:00,289:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-01-18 23:25:00,289:INFO:common:created directory at: artifact]
+[2024-01-18 23:25:00,289:INFO:common:created directory at: artifacts/data_ingestion]
+[2024-01-18 23:25:01,271:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6FE2:14E994:1C5FEF:297D59:65A96195
+Accept-Ranges: bytes
+Date: Thu, 18 Jan 2024 17:55:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21721-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1705600501.723176,VS0,VE304
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bdbe411aa43f1f4d354def149d06638154abed8b
+Expires: Thu, 18 Jan 2024 18:00:01 GMT
+Source-Age: 0
+
+]
+[2024-01-18 23:25:01,333:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
