@@ -2,10 +2,10 @@ Metadata-Version: 2.1
 Name: cnnClassifier
 Version: 0.0.0
 Summary: A small python package for CNN app
-Home-page: https://github.com/divyanshjuneja/chickenDiseasesAnalysis
+Home-page: https://github.com/divyanshjuneja/chickenDiseasesAnalysisR
 Author: divyanshjuneja
 Author-email: divyanshjuneja96@gmail.com
-Project-URL: Bug Tracker, https://github.com/divyanshjuneja/chickenDiseasesAnalysis/issues
+Project-URL: Bug Tracker, https://github.com/divyanshjuneja/chickenDiseasesAnalysisR/issues
 License-File: LICENCE
 
 # Chicken Disease Classification Project 
